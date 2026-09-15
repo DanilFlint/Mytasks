@@ -1,6 +1,6 @@
 package threads;
 
-import threads.counter.Counter;
+import threads.easy.counter.Counter;
 
 import java.util.ArrayList;
 import java.util.List;

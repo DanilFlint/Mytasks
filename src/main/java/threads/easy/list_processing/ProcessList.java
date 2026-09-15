@@ -1,4 +1,4 @@
-package threads.list_processing;
+package threads.easy.list_processing;
 
 import java.util.ArrayList;
 import java.util.List;
